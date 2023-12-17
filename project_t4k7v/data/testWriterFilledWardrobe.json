@@ -1,0 +1,122 @@
+{
+    "allClothes": [
+        {
+            "fit": "tight",
+            "colour": "blue",
+            "mood": "feminine",
+            "id": "Uniqlo floral skirt",
+            "type": "bottom",
+            "dressCode": "business casual"
+        },
+        {
+            "fit": "comfy",
+            "colour": "silver",
+            "mood": "glam",
+            "id": "Bejeweled purse",
+            "type": "accessory",
+            "dressCode": "black tie"
+        },
+        {
+            "fit": "tight",
+            "colour": "beige",
+            "mood": "cool",
+            "id": "Mom's leather jacket",
+            "type": "jacket",
+            "dressCode": "casual"
+        },
+        {
+            "fit": "baggy",
+            "colour": "brown",
+            "mood": "academic",
+            "id": "Tweed blazer",
+            "type": "jacket",
+            "dressCode": "formal"
+        },
+        {
+            "fit": "tight",
+            "colour": "black",
+            "mood": "elegant",
+            "id": "Black buttoned long-sleeve",
+            "type": "top",
+            "dressCode": "casual"
+        },
+        {
+            "fit": "comfy",
+            "colour": "brown",
+            "mood": "chic",
+            "id": "Plaid beret",
+            "type": "accessory",
+            "dressCode": "cocktail"
+        },
+        {
+            "fit": "baggy",
+            "colour": "blue",
+            "mood": "elegant",
+            "id": "Farrah jeans",
+            "type": "bottom",
+            "dressCode": "business casual"
+        }
+    ],
+    "accessories": [
+        {
+            "fit": "comfy",
+            "colour": "silver",
+            "mood": "glam",
+            "id": "Bejeweled purse",
+            "type": "accessory",
+            "dressCode": "black tie"
+        },
+        {
+            "fit": "comfy",
+            "colour": "brown",
+            "mood": "chic",
+            "id": "Plaid beret",
+            "type": "accessory",
+            "dressCode": "cocktail"
+        }
+    ],
+    "tops": [{
+        "fit": "tight",
+        "colour": "black",
+        "mood": "elegant",
+        "id": "Black buttoned long-sleeve",
+        "type": "top",
+        "dressCode": "casual"
+    }],
+    "jackets": [
+        {
+            "fit": "tight",
+            "colour": "beige",
+            "mood": "cool",
+            "id": "Mom's leather jacket",
+            "type": "jacket",
+            "dressCode": "casual"
+        },
+        {
+            "fit": "baggy",
+            "colour": "brown",
+            "mood": "academic",
+            "id": "Tweed blazer",
+            "type": "jacket",
+            "dressCode": "formal"
+        }
+    ],
+    "bottoms": [
+        {
+            "fit": "tight",
+            "colour": "blue",
+            "mood": "feminine",
+            "id": "Uniqlo floral skirt",
+            "type": "bottom",
+            "dressCode": "business casual"
+        },
+        {
+            "fit": "baggy",
+            "colour": "blue",
+            "mood": "elegant",
+            "id": "Farrah jeans",
+            "type": "bottom",
+            "dressCode": "business casual"
+        }
+    ]
+}

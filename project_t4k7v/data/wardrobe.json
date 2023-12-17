@@ -1,0 +1,236 @@
+{
+    "allClothes": [
+        {
+            "fit": "tight",
+            "colour": "blue",
+            "mood": "cute",
+            "id": "Liza's gift blouse",
+            "type": "top",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "comfy",
+            "colour": "gold",
+            "mood": "elegant",
+            "id": "Satellite bracelet",
+            "type": "accessory",
+            "dressCode": "cocktail"
+        },
+        {
+            "fit": "Baggy",
+            "colour": "blue",
+            "mood": "sporty",
+            "id": "Nova Scotia quarter zip",
+            "type": "Top",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Tight",
+            "colour": "blue",
+            "mood": "cute",
+            "id": "Planet earrings",
+            "type": "Accessory",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Comfy",
+            "colour": "black",
+            "mood": "sophisticated",
+            "id": "Levi's jeans",
+            "type": "Bottom",
+            "dressCode": "Business Casual"
+        },
+        {
+            "fit": "Baggy",
+            "colour": "blue",
+            "mood": "cute",
+            "id": "Balenciaga puffer",
+            "type": "Jacket",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Comfy",
+            "colour": "black",
+            "mood": "sporty",
+            "id": "Columbia rainjacket",
+            "type": "Jacket",
+            "dressCode": "White Tie"
+        },
+        {
+            "fit": "Baggy",
+            "colour": "blue",
+            "mood": "cute",
+            "id": "Farrah jeans",
+            "type": "Bottom",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Tight",
+            "colour": "green",
+            "mood": "cottagecore",
+            "id": "Winners floral blouse",
+            "type": "Top",
+            "dressCode": "Formal"
+        },
+        {
+            "fit": "Baggy",
+            "colour": "blue",
+            "mood": "cute",
+            "id": "Floral cover-up",
+            "type": "Jacket",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Tight",
+            "colour": "blue",
+            "mood": "elegant",
+            "id": "Marble hair claw",
+            "type": "Accessory",
+            "dressCode": "Business Casual"
+        },
+        {
+            "fit": "Tight",
+            "colour": "gold",
+            "mood": "elegant",
+            "id": "Hammered ring",
+            "type": "Accessory",
+            "dressCode": "Formal"
+        },
+        {
+            "fit": "Baggy",
+            "colour": "white",
+            "mood": "classic",
+            "id": "Storets puffer",
+            "type": "Jacket",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Comfy",
+            "colour": "black",
+            "mood": "military",
+            "id": "Thrifted cargos",
+            "type": "Bottom",
+            "dressCode": "Casual"
+        }
+    ],
+    "accessories": [
+        {
+            "fit": "comfy",
+            "colour": "gold",
+            "mood": "elegant",
+            "id": "Satellite bracelet",
+            "type": "accessory",
+            "dressCode": "cocktail"
+        },
+        {
+            "fit": "Tight",
+            "colour": "blue",
+            "mood": "cute",
+            "id": "Planet earrings",
+            "type": "Accessory",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Tight",
+            "colour": "blue",
+            "mood": "elegant",
+            "id": "Marble hair claw",
+            "type": "Accessory",
+            "dressCode": "Business Casual"
+        },
+        {
+            "fit": "Tight",
+            "colour": "gold",
+            "mood": "elegant",
+            "id": "Hammered ring",
+            "type": "Accessory",
+            "dressCode": "Formal"
+        }
+    ],
+    "tops": [
+        {
+            "fit": "tight",
+            "colour": "blue",
+            "mood": "cute",
+            "id": "Liza's gift blouse",
+            "type": "top",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Baggy",
+            "colour": "blue",
+            "mood": "sporty",
+            "id": "Nova Scotia quarter zip",
+            "type": "Top",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Tight",
+            "colour": "green",
+            "mood": "cottagecore",
+            "id": "Winners floral blouse",
+            "type": "Top",
+            "dressCode": "Formal"
+        }
+    ],
+    "jackets": [
+        {
+            "fit": "Baggy",
+            "colour": "blue",
+            "mood": "cute",
+            "id": "Balenciaga puffer",
+            "type": "Jacket",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Comfy",
+            "colour": "black",
+            "mood": "sporty",
+            "id": "Columbia rainjacket",
+            "type": "Jacket",
+            "dressCode": "White Tie"
+        },
+        {
+            "fit": "Baggy",
+            "colour": "blue",
+            "mood": "cute",
+            "id": "Floral cover-up",
+            "type": "Jacket",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Baggy",
+            "colour": "white",
+            "mood": "classic",
+            "id": "Storets puffer",
+            "type": "Jacket",
+            "dressCode": "Casual"
+        }
+    ],
+    "bottoms": [
+        {
+            "fit": "Comfy",
+            "colour": "black",
+            "mood": "sophisticated",
+            "id": "Levi's jeans",
+            "type": "Bottom",
+            "dressCode": "Business Casual"
+        },
+        {
+            "fit": "Baggy",
+            "colour": "blue",
+            "mood": "cute",
+            "id": "Farrah jeans",
+            "type": "Bottom",
+            "dressCode": "Casual"
+        },
+        {
+            "fit": "Comfy",
+            "colour": "black",
+            "mood": "military",
+            "id": "Thrifted cargos",
+            "type": "Bottom",
+            "dressCode": "Casual"
+        }
+    ]
+}

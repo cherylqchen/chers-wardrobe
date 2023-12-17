@@ -1,0 +1,154 @@
+{
+  "allClothes": [
+    {
+      "fit": "comfy",
+      "colour": "blue",
+      "mood": "sporty",
+      "id": "UBC sweater",
+      "type": "top",
+      "dressCode": "casual"
+    },
+    {
+      "fit": "comfy",
+      "colour": "green",
+      "mood": "traditional",
+      "id": "Hetian jade necklace",
+      "type": "accessory",
+      "dressCode": "business casual"
+    },
+    {
+      "fit": "tight",
+      "colour": "green",
+      "mood": "flirty",
+      "id": "Cider ruched dress",
+      "type": "top",
+      "dressCode": "cocktail"
+    },
+    {
+      "fit": "baggy",
+      "colour": "green",
+      "mood": "fairy",
+      "id": "Knitted cardigan",
+      "type": "jacket",
+      "dressCode": "casual"
+    },
+    {
+      "fit": "baggy",
+      "colour": "black",
+      "mood": "sporty",
+      "id": "Black cargos",
+      "type": "bottom",
+      "dressCode": "casual"
+    },
+    {
+      "fit": "tight",
+      "colour": "white",
+      "mood": "elegant",
+      "id": "Cider white strappy dress",
+      "type": "top",
+      "dressCode": "white tie"
+    },
+    {
+      "fit": "comfy",
+      "colour": "beige",
+      "mood": "military",
+      "id": "Cargo jacket",
+      "type": "jacket",
+      "dressCode": "business casual"
+    },
+    {
+      "fit": "tight",
+      "colour": "gold",
+      "mood": "elegant",
+      "id": "Hammered ring",
+      "type": "accessory",
+      "dressCode": "formal"
+    },
+    {
+      "fit": "tight",
+      "colour": "gold",
+      "mood": "elegant",
+      "id": "Twisted rope ring",
+      "type": "accessory",
+      "dressCode": "formal"
+    }
+  ],
+  "accessories": [
+    {
+      "fit": "comfy",
+      "colour": "green",
+      "mood": "traditional",
+      "id": "Hetian jade necklace",
+      "type": "accessory",
+      "dressCode": "business casual"
+    },
+    {
+      "fit": "tight",
+      "colour": "gold",
+      "mood": "elegant",
+      "id": "Hammered ring",
+      "type": "accessory",
+      "dressCode": "formal"
+    },
+    {
+      "fit": "tight",
+      "colour": "gold",
+      "mood": "elegant",
+      "id": "Twisted rope ring",
+      "type": "accessory",
+      "dressCode": "formal"
+    }
+  ],
+  "tops": [
+    {
+      "fit": "comfy",
+      "colour": "blue",
+      "mood": "sporty",
+      "id": "UBC sweater",
+      "type": "top",
+      "dressCode": "casual"
+    },
+    {
+      "fit": "tight",
+      "colour": "green",
+      "mood": "flirty",
+      "id": "Cider ruched dress",
+      "type": "top",
+      "dressCode": "cocktail"
+    },
+    {
+      "fit": "tight",
+      "colour": "white",
+      "mood": "elegant",
+      "id": "Cider white strappy dress",
+      "type": "top",
+      "dressCode": "white tie"
+    }
+  ],
+  "jackets": [
+    {
+      "fit": "baggy",
+      "colour": "green",
+      "mood": "fairy",
+      "id": "Knitted cardigan",
+      "type": "jacket",
+      "dressCode": "casual"
+    },
+    {
+      "fit": "comfy",
+      "colour": "beige",
+      "mood": "military",
+      "id": "Cargo jacket",
+      "type": "jacket",
+      "dressCode": "business casual"
+    }
+  ],
+  "bottoms": [{
+    "fit": "baggy",
+    "colour": "black",
+    "mood": "sporty",
+    "id": "Black cargos",
+    "type": "bottom",
+    "dressCode": "casual"
+  }]
+}

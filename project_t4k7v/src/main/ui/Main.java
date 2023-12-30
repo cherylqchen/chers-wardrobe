@@ -1,5 +1,7 @@
 package ui;
 
+import java.awt.*;
+
 // Represents control center, Main config
 public class Main {
 
